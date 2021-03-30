@@ -1,0 +1,3 @@
+[submodule "mmoreseqs"]
+	path = mmoreseqs
+	url = https://github.com/TravisWheelerLab/fb-pruner.git
