@@ -5,7 +5,7 @@ SHELL      = /bin/sh
 
 # Installation targets
 #
-prefix      = /home/devreckas/Google-Drive/Wheeler-Labs/personal-work/mmoreseqs-dev/dev-resources/other-tools/hmmer-3.3.2
+prefix      = /home/devreckas/Google-Drive/Wheeler-Labs/personal-work/mmoreseqs-dev/other-tools/hmmer-test
 exec_prefix = ${prefix}
 datarootdir = ${prefix}/share
 bindir      = ${exec_prefix}/bin
